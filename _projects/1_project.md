@@ -26,7 +26,19 @@ category: Research
   <li>Evaluate the performance of different statistical machine learning models </li>
 </ul>
 
+<h> 
+  Study Population
+</h>
 
+<ul>
+  <li>551 patients seen at a public hospital in Addis Ababa, Ethiopia who were ≥18 years, transplant- naive, and without liver fibrosis at baseline (Fibroscan ≤6.0 kPa)</li>
+  <li>Basic demographics, medical history (e.g. family history of HCC, HIV status, substance abuse) and full diagnostic work-up (e.g. laboratory tests and Fibroscan) collected at baseline </li>
+  <li>Patients were followed up to 7 years with Fibrosis scan and laboratory tests performed at 3-month (AST, ALT, CBC), or 6-month intervals (HBV viral load, HBsAg) </li>
+</ul>
+
+<h>
+  Study Design
+</h>
 
 
 
