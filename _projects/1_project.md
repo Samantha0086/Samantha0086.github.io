@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI/ML Methodologies to Predict Chronic Hepatitis B (CHB) Disease Progression in Africa
-description:Predict whether patients will get Hepatitis B in one year using the patients previous lab results
+description: Predict whether patients will get Hepatitis B in one year using the patients previous lab results
 img: assets/img/12.jpg
 importance: 1
 category: Research
